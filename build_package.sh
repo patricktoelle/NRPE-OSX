@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 
-NRPE_DOWNLOAD_URL=http://softlayer-ams.dl.sourceforge.net/project/nagios/nrpe-2.x/nrpe-2.15/nrpe-2.15.tar.gz
+NRPE_DOWNLOAD_URL=http://downloads.sourceforge.net/project/nagios/nrpe-2.x/nrpe-2.15/nrpe-2.15.tar.gz
 PLUGINS_DOWNLOAD_URL=https://www.nagios-plugins.org/download/nagios-plugins-1.5.tar.gz
 WORKING_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
